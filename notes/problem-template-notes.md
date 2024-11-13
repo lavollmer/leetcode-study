@@ -140,6 +140,3 @@
 
 ---
 
-This structure makes it easy to track and review your understanding of each problem. Over time, this will become a powerful reference for reviewing solutions, recalling concepts, and even preparing for technical interviews.
-
-Would you like any further details or modifications on this template?

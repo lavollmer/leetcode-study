@@ -17,7 +17,7 @@ This section is regarding doing flashcards every day for 30 minutes to improve m
 
 ### Week 1-2 Foundations and Data Structures (Arrays, Strings, Linked Lists)
 - - **Key Topics**: String MDN Instances RemNote flashcards, Arrays Iterative Methods RemNote flashcards
-- **Time Spent**: X hours X minutes
+- **Time Spent**: 13 minutes
 - **Reflection**: 
 - ` string.chartAt(number)`  -> returns the character at the specified index
 - `indexOf()` means to find the index

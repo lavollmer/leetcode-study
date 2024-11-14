@@ -19,18 +19,20 @@ This section is regarding doing flashcards every day for 30 minutes to improve m
 - - **Key Topics**: String MDN Instances RemNote flashcards, Arrays Iterative Methods RemNote flashcards
 - **Time Spent**: X hours X minutes
 - **Reflection**: 
-        - string.chartAt(number) -> returns the character at teh specified index
-        - indexOf() means to find the index
-        - string.includes("") -> checks the string if it contains the substring -> returns true or false
-        - string.substring (index, index) -> extracts the characters from index to index (not inclusive of end index)(essentially UP TO that index)
-        - String("XXXX") -> creation of a string with that in it
-        - string.split("XXX") -> splits the string into an array using the "XXX" as the delimiter ("XXX" is a string)
-        - string.replace("what is in the string", "what you want to replace it with") -> replaces the FIRST occurrence of that string VS. string.replaceAll("XXX") replaces all the instances
-        - " " -> a string literal containing a single whitespace character
-        - string.match(/[a-e]/g) -> finds all matches of characters in the range in the [] in the string
-        - using indexOf(0) -> example will return where the number 0 is found in the string NOT the index 0
-        - string.split("") -> splits the string into an array of individual characters
-        - To combine individual string characters to concat use the operator +
+- ` string.chartAt(number)`  -> returns the character at the specified index
+- `indexOf()` means to find the index
+- `string.includes("")` -> checks the string if it contains the substring -> returns true or false
+- `string.substring (index, index)` -> extracts the characters from index to index (not inclusive of end index)(essentially UP TO that index)
+- `String("XXXX")` -> creation of a string with that in it
+- `string.split("XXX")` -> splits the string into an array using the "XXX" as the delimiter ("XXX" is a string)
+- `string.replace("what is in the string", "what you want to replace it with")` -> replaces the FIRST occurrence of that string VS. string.replaceAll("XXX") replaces all the instances
+- `" "` -> a string literal containing a single whitespace character
+- `string.match(/[a-e]/g)` -> finds all matches of characters in the range in the [] in the string
+- using `indexOf(0)` -> example will return where the number 0 is found in the string NOT the index 0
+- `string.split("")` -> splits the string into an array of individual characters
+- To combine individual string characters to concat use the operator +
+- Array iterative methods:
+- `array.filter(callback(currentValue,index,array))` -> filter() formula
 
 ### Week 3-4 Intermediate Data Structures (Stacks, Queues, Hash Tables, Heaps)
 - - **Key Topics**: 
